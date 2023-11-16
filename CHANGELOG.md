@@ -6,7 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-### Changed
+## [3.9.3] - 2023-11-16
+
+### Added
+
 - The default value for the `PhoneNumberType` form type option `country_display_emoji_flag` will change from `false` to `true` on the next major release
 
 ## [3.9.2] - 2023-06-29
